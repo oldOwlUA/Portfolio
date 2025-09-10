@@ -1,9 +1,5 @@
 # Portfolio
 
-****
-
-## Sylok Media by MGrup
-
 ***
 
 ### Talking letters: teaching of the word
@@ -14,6 +10,7 @@
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/5bcb18a1-238b-4aeb-a2d4-f6a330b1d67f" />
 
 ****
+
 ### Pop balloons
 
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/9e7f7a02-34bc-44e7-b229-762dc41645d3" />
@@ -44,10 +41,6 @@
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/c0316610-6b53-4334-a53c-8c0328aeb017" />
 
 ***
-
-## Happy games for kids
-
-****
 
 ### Kids Zoo
 
@@ -134,7 +127,17 @@ https://github.com/user-attachments/assets/28610e79-b86d-4a13-b8ff-808db1fc0122
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/18d6c204-abb8-497f-a7ec-103f96a46c98" />
 
 ***
-## Room 8 Group
+
+Mood Bloom™ - Therapeutic Game
+
+https://play.google.com/store/apps/details?id=hedonia.bloom.mood!
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/86a706c2-d1d5-48be-a1fb-52379a760dd2"/>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/1dacce96-2b2b-49c6-99b7-ae30578db1b0"/>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/d975a9f9-ce41-4599-b333-ae775026aab5"/>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/09dacc93-b0dc-4f26-983b-6997db7c8ba8"/>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/8cd8cb18-d88d-4f9b-875e-7db5abffd254"/>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/31abd758-5aa4-4676-9afd-e71d022ec073"/>
 
 ****
 
